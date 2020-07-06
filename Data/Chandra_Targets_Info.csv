@@ -1,0 +1,38 @@
+Star,ra,dec,Covered by Chandra Already?,Covered by XMM,"XMM Newton Result 
+(Power Law Gamma=2)","XMM Newton Result 
+(BB T=1kev)","XMM Newton Result 
+(BB T=60 ev)",NH(cm-2),NH (CIAO - older reference),Mstrip,Predicted Luminosity Range,Range of Orbital Velocities
+lmc-obs45510-156 (same as lmc-obs45509-850 (lmc-m01)),86.86671,-69.1021,no,Yes. ~24 ks (2obs),<4.9e33 erg/s,<8.2e33 erg/s,<1.9e33 erg/s,4.74E+021,2.09E+021,5.5,,
+lmc-obs45461-2273 (lmc-m04),77.205735,-69.0916,no,Yes. ~59 ks (2obs),"(4.15 +/- 1.84)e33
+(2.20 +/- 0.76)e33","(6.90 +/- 3.05)e33
+(3.65 +/- 1.26)e33","(8.47 +/- 2.93)e32
+(1.60 +/- 0.71)e33",2.09E+021,7.34E+020,3.1,,
+"lmc-obs45578-835 (lmc164-97, blue star)",86.73666,-70.09345,Yes, 60 ks ACIS-S,Yes. 18k+8k,"(1.53 +/- 0.73)e33
+<4.32e33","(2.54 +/- 1.212)e33
+<7.19e33","(5.89 +/- 2.81)e32
+<1.67e33",4.29E+021,2E+021,3.6,
+lmc-obs45536-335 (lmc-m02),82.004805,-69.99687,no,Yes. ~115ks (4 obs),<1.12e33,<1.40e33,<5.98e32,1.39E+021,1.13E+021,2.3,,
+lmc-obs45516-4349,83.116425,-70.30682,no,Yes. ~76ks (2 obs),<1.35e33,<1.71e33,<1.04e33,1.93E+021,1.44E+021,2.7,,
+lmc-obs45446-206,76.194645,-69.04014,no,Yes. ~32 ks (1 obs),<9.49e32,<1.20e33,<7.35e32,1.97E+021,6.35E+020,2.3,,
+smc-obs40427-981 (a18),14.25651,-72.60092,Yes, 100 ks ACIS-I (deep survey), no obvious detection in 50 ks,Yes. 4 obs. ~7ks each,<6.71e33,<1.11e34,<2.58e33,,6.2E+020,7.1
+smc-obs40416-6198 (smc-m2),15.24876,-72.62048,Yes, 8 ks ACIS-S (calibration), no obvious detection.,Yes 4 obs. 1-10k each,<3.50e33,<5.80e33,<1.34e33,,5.64E+020,2.5
+smc-obs40434-2857 (large RV!!!),14.41704,-71.98791,Yes, 16 ks ACIS-S (calibration), no obvious detection in 8 ks,Yes. 14 XMM obs. 3-15ks.,"(2.46 +/- 0.39)e34
+(1.24 +/- 0.32)e34
+(1.07 +/- 0.38)e34
+(6.08 +/- 2.09)e33
+(8.16 +/- 2.76)e33
+<4.29e33",,,,7.49E+020,2.5
+smc-obs40454-4332 (smc-m1),16.001985,-72.27852,"Yes, 24 calibration fields; no obvious in 10ks.",Yes. 10 XMM obs. 3-11ks,"(1.12 +/- 0.36)e34
+(2.53 +/- 0.74)e34
+(0.57 +/- 0.21)e34
+<4.91e33",,,,6.01E+020,2.5,,
+smc-obs40454-6519,16.26066,-72.04239,Yes, an INSANE about of time (> 100 calibration), nothing in one 20ks,Yes. 19 XMM obs. 4-25ks.,"(7.64 +/- 0.41)e34
+(7.27 +/- 0.54)e34
+(4.55 +/- 0.56)e34
+(2.75 +/- 0.32)e34
+(2.06 +/- 0.51)e34
+(3.62 +/- 0.87)e34
+(7.10 +/- 1.14)e34
+(2.64 +/- 0.34)e34
+(0.39 +/- 0.17)e34
+<0.37e34",,,,6.35E+020,2.2
